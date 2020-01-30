@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="DB">
+    <file>resources/DB.png</file>
+  </qresource>
+</RCC>

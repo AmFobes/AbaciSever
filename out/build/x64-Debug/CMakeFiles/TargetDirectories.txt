@@ -1,0 +1,4 @@
+P:/C++/ICS4U/Final/Abaci Server/out/build/x64-Debug/CMakeFiles/Abaci_Server.dir
+P:/C++/ICS4U/Final/Abaci Server/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+P:/C++/ICS4U/Final/Abaci Server/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+P:/C++/ICS4U/Final/Abaci Server/out/build/x64-Debug/CMakeFiles/Abaci_Server_autogen.dir

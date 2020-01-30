@@ -1,0 +1,12 @@
+# ninja log v5
+1	309	0	CMakeFiles/Abaci_Server_autogen	e6a97c0f9d860aa0
+1	309	0	Abaci_Server_autogen/mocs_compilation.cpp	e6a97c0f9d860aa0
+309	2467	601508860	CMakeFiles/Abaci_Server.dir/Abaci_Server_autogen/mocs_compilation.cpp.obj	155d31cf0f73be47
+312	2472	601508860	CMakeFiles/Abaci_Server.dir/gui/CreateClient.cpp.obj	521e8bdec8aa3e87
+315	2478	601508860	CMakeFiles/Abaci_Server.dir/gui/ClientData.cpp.obj	632c9a6bf27cca78
+313	2505	601508860	CMakeFiles/Abaci_Server.dir/gui/DatabaseOptions.cpp.obj	beab78947bd51248
+310	2508	601508860	CMakeFiles/Abaci_Server.dir/main.cpp.obj	9f9cce3f3c9719a9
+311	2518	601508860	CMakeFiles/Abaci_Server.dir/gui/MainWindow.cpp.obj	c93550dea7dcd49
+2519	3322	601508861	Abaci_Server.exe	c964f1410054f14e
+2	34	0	CMakeFiles/Abaci_Server_autogen	e6a97c0f9d860aa0
+2	34	0	Abaci_Server_autogen/mocs_compilation.cpp	e6a97c0f9d860aa0

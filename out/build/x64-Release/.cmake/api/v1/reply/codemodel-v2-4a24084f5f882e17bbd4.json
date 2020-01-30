@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Abaci_Server",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Abaci_Server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Abaci_Server-RelWithDebInfo-644683b05cb8fc39a9d7.json",
+					"name" : "Abaci_Server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Abaci_Server_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Abaci_Server_autogen-RelWithDebInfo-840fa159a72c9003ac68.json",
+					"name" : "Abaci_Server_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "P:/C++/ICS4U/Final/Abaci Server/out/build/x64-Release",
+		"source" : "P:/C++/ICS4U/Final/Abaci Server"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

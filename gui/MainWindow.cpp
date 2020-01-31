@@ -501,7 +501,7 @@ void MainWindow::addResult(std::vector<double> result, int clientID) {
 		insertQuery.exec();
 		QSqlQuery updateQuery(managerDB->DB);
 		updateQuery.prepare("UPDATE " + settings->value("DatabaseClientTable").toString() + " SET WorkCompleted = WorkCompleted + :wcCount WHERE ID = :clID");
-		updateQuery.bindValue(":wcCount", result.size());
+		updateQuery.bindValue(":wcCount", QVariant::fromValue(result.size()));
 		updateQuery.bindValue(":clID", clientID);
 		updateQuery.exec();
 	QApplication::processEvents();

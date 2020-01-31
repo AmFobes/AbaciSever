@@ -18,8 +18,8 @@ find_package(Qt5 COMPONENTS Widgets Core Sql Network REQUIRED) # Search for QT5
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
-add_executable(Abaci_Server ${GUI_TYPE} main.cpp gui/CreateClient.cpp gui/CreateClient.h gui/CreateClient.ui sqlServer.h gui/MainWindow.cpp gui/MainWindow.h gui/MainWindow.ui
-			gui/DatabaseOptions.cpp gui/DatabaseOptions.h gui/DatabaseOptions.ui gui/ClientData.cpp gui/ClientData.h gui/ClientData.ui server.h)
+add_executable(Abaci_Server ${GUI_TYPE} main.cpp gui/CreateClient.cpp gui/CreateClient.h gui/createclient.ui SqlServer.h gui/MainWindow.cpp gui/MainWindow.h gui/mainwindow.ui
+			gui/DatabaseOptions.cpp gui/DatabaseOptions.h gui/databaseoptions.ui gui/ClientData.cpp gui/ClientData.h gui/clientdata.ui Server.h)
 
 target_include_directories(Abaci_Server PUBLIC Qt5_INCLUDE_DIRS)
 target_link_libraries(Abaci_Server Qt5::Widgets Qt5::Core Qt5::Sql Qt5::Network)

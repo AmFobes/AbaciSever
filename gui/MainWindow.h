@@ -13,7 +13,7 @@
 #include <QTableWidget>
 #include <QTableView>
 #include <QCloseEvent>
-#include "sqlServer.h"
+#include "SqlServer.h"
 
 namespace Ui {
 	class MainWindow;

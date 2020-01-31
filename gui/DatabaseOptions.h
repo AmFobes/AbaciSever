@@ -1,7 +1,7 @@
 #pragma once
 #include <vector>
 #include <QMainWindow>
-#include "sqlServer.h"
+#include "SqlServer.h"
 #include "MainWindow.h"
 
 namespace Ui

@@ -1,6 +1,6 @@
 #include <qapplication.h>
 #include <iostream>
-#include "sqlServer.h"
+#include "SqlServer.h"
 #include "Server.h"
 #include "gui/MainWindow.h"
 #include <QSqlQueryModel>

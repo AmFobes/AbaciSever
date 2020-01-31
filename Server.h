@@ -2,7 +2,6 @@
 #include "gui/MainWindow.h"
 #include <bitset>
 #include <QApplication>
-#include <QTCore>
 #include <QTcpServer>
 #include <QTcpSocket>
 #include <QtConcurrent/QtConcurrent>

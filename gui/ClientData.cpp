@@ -1,6 +1,6 @@
 #include "ClientData.h"
 #include "ui_clientdata.h"
-#include "sqlServer.h"
+#include "SqlServer.h"
 
 ClientData::ClientData(SingleClientData* clientDataarg,QSqlDatabase localDB,QWidget* parent) :
 	ui(new Ui::ClientData){

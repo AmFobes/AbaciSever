@@ -1,6 +1,6 @@
 #include "DatabaseOptions.h"
 #include "ui_databaseoptions.h"
-#include "sqlServer.h"
+#include "SqlServer.h"
 #include <QtCore>
 #include <QSqlQuery>
 #include <QMessageBox>
